@@ -29,9 +29,9 @@ npm install
 npm run dev 
 ```
 > This command not working compiling Style of Tailwindcss yet. to do that please duplicate your teminal and run
-    ```sh
-    npm run tw
-    ```
+```sh
+npm run tw
+```
 this command means tailwind --watch
 
 5. to build static `dist`
