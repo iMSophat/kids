@@ -5,11 +5,11 @@
     "scripts": {
         "build": "webpack && tailwindcss -i ./src/styles/app.css -o ./dist/css/tailwind.css",
         "dev": "webpack serve",
-        "wtw": "tailwindcss -i ./src/styles/app.css -o ./dist/css/tailwind.css --watch"
+        "tw": "tailwindcss -i ./src/styles/app.css -o ./dist/css/tailwind.css --watch"
     },
     "keywords": [],
     "author": "Sophat Leat <webdev>",
-    "license": "ISC",
+    "license": "MIT",
     "devDependencies": {
         "@babel/core": "^7.18.10",
         "@babel/preset-env": "^7.18.10",
