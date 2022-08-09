@@ -1,7 +1,7 @@
 ## Introduction 🤳
 
 Hi, My name is Sophat, I'm a Front-End Develop of TT in Cambodia, This Project is Just For Fun. also it's my first `Webpack` + `SASS` + `Tailwindcss` project. 
-world you like to see it ? Let's go to my [DEMO] (https://kids.leatsophat.me)👏🎉
+world you like to see it ? Let's go to my [DEMO](https://kids.leatsophat.me)👏🎉
 
 ## Installation 
 Are you tring to clone this code ? Ok, Let me tell you!! 
